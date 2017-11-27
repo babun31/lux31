@@ -1,0 +1,70 @@
+@font-face{
+    font-family: playfairdisplay-bold;
+    src: url(fonts/PlayfairDisplay-Bold.otf);
+}
+body{
+   font-size: 14px;
+   color: #5c6369;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: #2c465a;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: none;
+    color: #2c465a;
+}
+a:active{
+    text-decoration: none;
+}
+
+.top-header{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background: #fff;
+
+}
+nav a{
+    color: #2c465a;
+}
+nav ul{
+    padding-left:15px;
+    padding-top: 18px;
+}
+.none-border{
+    border: none;
+}
+.button-nav{
+    background: #fea100;
+    color: white;
+}
+.button-nav:hover{
+    background: #fea100;   
+}
+.scroll{
+    height: 569px;
+    background: #7d8587;
+    font-family: playfairdisplay-bold;
+    color:white;
+}
+.text-scroll {
+    
+    padding-top: 231px;
+    font-family: playfairdisplay-bold;
+    color:white;
+    font-size: 44px;
+}
+.food-menu{
+    padding-top: 50px;   
+}
+.contact-flow{
+    background: #edf1f3;
+    height: 98px;
+}
+li img {
+    vertical-align: bottom;
+}
+
